@@ -26,3 +26,11 @@ function my_text_strings( $translated_text, $text, $domain ) {
 }
 add_filter( 'gettext', 'my_text_strings', 999, 3 );
 ```
+### Task list
+
+My activities in this course
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Make a task list
+- [ ] Merge your pull request
